@@ -1,3 +1,3 @@
-# Personal Website
+# My Academic Portfolio
 
-Website with my academic portfolio. Built using Jekyll and GitHub Pages.
+The website contains my academic portfolio. Built with the Jekyll theme indigo by sergiokopplin.
