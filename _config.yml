@@ -1,6 +1,6 @@
 # main text of home
 name: Ryan Carty
-bio: Student of West African history
+bio: Student of African history, technology, and digital humanities
 
 # twitter summary info
 description: An academic portfolio
@@ -55,7 +55,7 @@ email: cartyrya@msu.edu
 authors:
     cartyrya:
         name: Ryan Carty
-        bio: Student of West African history
+        bio: Student of African history, technology, and digital humanities
         external-image: false
         picture: assets/images/headshot.jpg
         # twitter: johndoe
