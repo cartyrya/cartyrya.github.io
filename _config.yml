@@ -61,7 +61,7 @@ author:
   bio    : "PhD candidate, History Department, Michigan State University"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-browser"
       url: "https://cartyrya.github.io/"
     - label: "Email"
       icon: "fas fa-envelope-square"
