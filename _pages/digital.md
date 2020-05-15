@@ -1,0 +1,4 @@
+---
+permalink: /digital/
+title: "Digital"
+---
