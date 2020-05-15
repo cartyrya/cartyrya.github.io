@@ -1,3 +1,3 @@
-# My Academic Portfolio
+# A Personal Website
 
-The website contains my academic portfolio. Built with the Jekyll theme indigo by sergiokopplin.
+Built with [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
