@@ -22,7 +22,7 @@ feature_row3:
     btn_class: "btn--info"
 feature_row4:
   - image_path: assets/images/oral-history-methods.jpg
-    image_caption: ""
+    image_caption: "Interview Samples: [**Oral History Methods**](http://projects.leadr.msu.edu/oralhistorymethods/items/browse)"
     alt: "A snapshot from the Oral History Methods website"
     title: "Oral History Methods"
     excerpt: 'A prototype digital repository for oral history audio and video recordings. The repository is housed within LEADR’s website and hosted on MATRIX’s servers. The repository uses [Omeka Classic](https://omeka.org/) as a content management system and the [Oral History Metadata Synchronizer](http://www.oralhistoryonline.org/) (OHMS) application as a tool to index the interviews and their transcripts. Additionally, the site has a series of essays on best practices for oral history collection, with attention to the specific needs of African oral historians. These essays explain the technical considerations and best practices for: recording equipment; data curation; transcription and analysis; and preservation of oral history recordings. The essays show that the technical process of recording is integral to the analytic, scholarly work of oral history. This website was built for a graduate seminar on the Digital Humanities and Social Sciences at Michigan State University.'
