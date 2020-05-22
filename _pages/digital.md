@@ -3,7 +3,7 @@ permalink: /digital/
 title: "Digital"
 layout: splash
 feature_row2:
-  - image_path: /assests/images/hausa-trader.jpg
+  - image_path: assests/images/hausa-trader.jpg
     image_caption: "Hausa Trader, 1925: [**BMArchives**](http://www.bmarchives.org/items/show/57785)"
     alt: "A photograph of a Hausa trader from 1925"
     title: "Volta River Commodities"
@@ -12,7 +12,7 @@ feature_row2:
     btn_label: "Go to website"
     btn_class: "btn--info"
 feature_row3:
-  - image_path: /assests/images/dakar-quais.jpg
+  - image_path: assests/images/dakar-quais.jpg
     image_caption: "Dakar Port: [**Au-Sénégal**](https://www.au-senegal.com/dakar-et-saint-louis-dans-les-annees-quarante,1768.html)"
     alt: "An image of a port in Dakar during the colonial period"
     title: "Africa's Imperial Commodities"
@@ -21,7 +21,7 @@ feature_row3:
     btn_label: "Go to website"
     btn_class: "btn--info"
 feature_row4:
-  - image_path: /assests/images/oral-history-methods.jpg
+  - image_path: assests/images/oral-history-methods.jpg
     image_caption: ""
     alt: "A snapshot from the Oral History Methods website"
     title: "Oral History Methods"
